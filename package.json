@@ -2,9 +2,9 @@
   "name": "youtube-video-downloader-server",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/app.js",
+  "main": "./app.js",
   "scripts": {
-    "start": "nodemon ../app"
+    "start": "nodemon"
   },
   "keywords": [],
   "author": "",
